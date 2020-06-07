@@ -150,8 +150,8 @@ $(window).resize(onWindowResize);
 
 var profile;
 swal({
-		title: "Hello World!!!",
-		text: "Hello visitor, you have landed upon little webspace of moghya. I hope you're doing well."
+		title: "Hello World !",
+		text: "Hello visitors, I am Audrey Fan, welcome to my website."
 		// buttons: ["Nope, I'm just looking around.", "Yes, I'm hiring :)"]
 		// buttons: {
 		// 	cancel: {
