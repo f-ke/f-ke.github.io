@@ -194,7 +194,7 @@ a{
 }
 
 body{
-	background: linear-gradient(cyan,black);
+	background: linear-gradient(black,cyan);
 	color: white;
 	font-family: "Lekton", monospace;
 	font-size: 1.15rem;
